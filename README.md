@@ -2,4 +2,4 @@
 
 ## run each js file with node
 
-''' node <filename.js> '''
+``` node <filename.js> ```
